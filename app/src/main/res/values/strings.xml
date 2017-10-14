@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="guide">
+        Gestures :\n
+        Right/Left Swipe: play next/prev;\n
+        Double tap: pause/play\n
+        \n
+        Pawan Patel\n
+        pawanpatel12895@gmail.com\n
+    </string>
+</resources>
